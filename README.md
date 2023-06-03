@@ -32,4 +32,4 @@ Feel free to modify, customize, and adapt the provided source code to meet your 
 We hope this project inspires and enhances the appearance of your website or application, adding a touch of modernity and style. Have fun creating!
 [𝗠𝗼𝗿𝗲](https://byalyck.github.io/Binary-Background/)
 ##
-![2023-05-29](https://github.com/ByAlyck/Binary-Background/assets/113322342/052259f9-3d12-4748-9e41-d06bdcb1fb14)
+![Binary Background](https://github.com/ByAlyck/Binary-Background/assets/113322342/052259f9-3d12-4748-9e41-d06bdcb1fb14)
